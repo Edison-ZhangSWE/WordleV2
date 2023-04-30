@@ -1,4 +1,4 @@
-1 7 6 0 0 0
+0 7 6 0 0 0
 OBLIGATE 6 No
 JOVE 6 No
 YEAS 6 No
